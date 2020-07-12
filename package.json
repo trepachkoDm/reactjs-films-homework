@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-films-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trepachkoDm/reactjs-films-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trepachkoDm/reactjs-films-homework/issues"
+  },
+  "homepage": "https://github.com/trepachkoDm/reactjs-films-homework#readme"
+}
