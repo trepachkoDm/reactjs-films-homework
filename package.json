@@ -76,8 +76,7 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "antd": "^4.4.0",
+
     "axios": "^0.19.2",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
